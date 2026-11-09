@@ -1,0 +1,18 @@
+Log: /home/kali/lab/logs/ssh_sample.log (2000 lines)
+Total failed logins: 517
+IPs with failures: 23
+Threshold: 10 failures
+Suspicious IPs: 6
+Top 5 IPs:
+  183.62.140.253 : 286 failures, 10 usernames
+  187.141.143.180 : 80 failures, 28 usernames
+  103.99.0.122 : 46 failures, 19 usernames
+  112.95.230.3 : 26 failures, 3 usernames
+  5.188.10.180 : 17 failures, 6 usernames
+Top 5 usernames tried:
+  root : 368
+  admin : 44
+  support : 6
+  oracle : 6
+  uucp : 5
+No successful logins from suspicious IPs.

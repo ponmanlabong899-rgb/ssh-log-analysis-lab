@@ -1,0 +1,7 @@
+Total failed logins: 193
+Suspicious IPs (20 or more failures): 3
+  198.51.100.23 : 60 failures
+  203.0.113.45 : 57 failures
+  192.0.2.77 : 52 failures
+ALERT: a suspicious IP logged in successfully:
+  Nov 02 11:49:55 user root from 203.0.113.45
